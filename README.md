@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Prakhar Jadaun</h1>
-<h3 align="center">I am 2nd year student of B.Tech CSE with specialisation in AIML at UPES Dehradun. I am a machine learning enthusiast, competitive programmer and a pianist.</h3>
+<h3 align="center">I am a 2nd year student of B.Tech CSE with specialisation in AIML at UPES Dehradun. I am a machine learning enthusiast, competitive programmer and a pianist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="prakharjadaun" /> </p>
 
