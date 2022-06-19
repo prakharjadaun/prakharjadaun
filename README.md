@@ -29,5 +29,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharjadaun&layout=compact&show_icons=true&count_private=true&langs_count=8&theme=dark&hide=jupyter notebook" alt="prakharjadaun" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prakharjadaun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" alt="prakharjadaun" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharjadaun&theme=dark" alt="prakharjadaun" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharjadaun&theme=highcontrast" alt="prakharjadaun" /></p>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=prakharjadaun&bg_color=000000&color=f5f5f5&line=0a9c9e&point=caafaf&area=true&hide_border=true" alt=prakharjadaun"/></p>
