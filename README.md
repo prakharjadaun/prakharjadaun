@@ -8,8 +8,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharjadaun" alt="prakharjadaun" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
 - 💬 Ask me about **C++, Java, Python, ML**
 
 - 📫 How to reach me **jadaunprakhar2@gmail.com**
