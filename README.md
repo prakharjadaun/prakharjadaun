@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-</p>
+
 <h2 align="center">Hi 👋, I'm Prakhar Jadaun</h2>
 <h4 align="center">I am a 2nd year student of B.Tech CSE with specialisation in AIML at UPES Dehradun. I am a machine learning enthusiast, competitive programmer and a pianist.</h4>
 
