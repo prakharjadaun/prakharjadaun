@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Prakhar Jadaun</h2>
-<h4 align="center">I am a 3rd year student of B.Tech CSE with specialisation in AIML at UPES Dehradun. I am a machine learning enthusiast, competitive programmer and a pianist.</h4>
+<h4 align="center">I am a Pre-Final year student and I am pursuing B.Tech in CSE with specialisation in AIML at UPES Dehradun. I am a Data Science enthusiast, competitive programmer and a pianist.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="prakharjadaun" /> </p>
 
