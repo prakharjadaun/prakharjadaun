@@ -22,5 +22,6 @@
 
 <p align="center"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/prakharjadaun/notebook" alt="notebookexpert"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prakharjadaun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" alt="prakharjadaun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharjadaun&theme=highcontrast" alt="prakharjadaun" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prakharjadaun&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000" alt="prakharjadaun" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharjadaun&theme=highcontrast" alt="prakharjadaun" width="400"></p>
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=prakharjadaun&bg_color=000000&color=f5f5f5&line=0a9c9e&point=caafaf&area=true&hide_border=true" alt=prakharjadaun"/></p>
