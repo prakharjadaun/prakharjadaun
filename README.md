@@ -14,6 +14,8 @@
 <a href="https://kaggle.com/prakharjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prakharjadaun" height="30" width="40" /></a>
 <a href="https://instagram.com/prakhar.jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakhar.jadaun" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/500083429_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="500083429_p" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prakharjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakharjadaun" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jadaunprakhar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jadaunprakhar2" height="30" width="40" /></a>
 <a href="https://discord.gg/prakhar#1029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prakhar#1029" height="30" width="40" /></a>
 </p>
 
